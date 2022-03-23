@@ -9,4 +9,4 @@
     </a>
   </p>
 <p align="center">
-<img  src="https://github-readme-stats.vercel.app/api?username=okan-ozturk&show_icons=true&theme=dracula&count_private=true&border_radius=20" alt="GitHub Readme Stats Themes" width=500px"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=okan-ozturk&show_icons=true&theme=dracula&border_radius=20" alt="GitHub Readme Stats Themes" width=500px"/>
